@@ -1,0 +1,3 @@
+C:\Users\Kobe\source\repos\Prog3_Scheepvaart\obj\Debug\netcoreapp3.0\Prog3_Scheepvaart.csprojAssemblyReference.cache
+C:\Users\Kobe\source\repos\Prog3_Scheepvaart\obj\Debug\netcoreapp3.0\Prog3_Scheepvaart.AssemblyInfoInputs.cache
+C:\Users\Kobe\source\repos\Prog3_Scheepvaart\obj\Debug\netcoreapp3.0\Prog3_Scheepvaart.AssemblyInfo.cs
